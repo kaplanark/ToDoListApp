@@ -137,9 +137,3 @@ $ npm run dev
 > App is running on port 3000!
 ```
 You may visit the application on browser with the URL: http://localhost:3000
-
-___
-
-
-## Authors
-[Mike Huang](https://github.com/smallpaes)"# ToDoListApp" 
