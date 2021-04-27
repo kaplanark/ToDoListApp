@@ -1,6 +1,8 @@
 # Todo List 📆
 A practical web application built with Node.js, Express, and MySQL for you to readily record, view, and manage your tasks with an account: Create, view, edit, delete, filter, and sort todos are as easy as pie 🥧
 
+<img src="kaplanark/img/github.png"/>
+
 
 ### Trial in this project 🤠
 **To increase user experience**
